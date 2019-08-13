@@ -175,4 +175,5 @@ int main() {
   } catch (const exception& ex) {
     cout << ex.what() << endl;
   }
+  return 0;
 }
